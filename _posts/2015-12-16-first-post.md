@@ -1,9 +1,9 @@
 ---
 published: true
+layout: post
 ---
 
 
-![_config.yml]
 Just trying to learn the whole Jekyll thing...
 
 Stay tuned for more updates on the blog....
