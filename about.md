@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Computer Science student.
+Software/Web Developer from York, PA
+Co-Owner of D2 Business Alliance, LLC
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Will include more information later...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Chris@D2BusinessAlliance.com](mailto:Chris@D2BusinessAlliance.com)
